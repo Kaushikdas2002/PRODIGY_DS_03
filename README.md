@@ -28,5 +28,5 @@ For this task, I used the following tools and libraries:
 Accuracy: 89%  
 
 ## Contact
-**LinkedIn**: kaushik-das-303126236   
+**LinkedIn**: https://www.linkedin.com/in/kaushik-das-303126236/   
 **Email**: dask72544@gmail.com  
